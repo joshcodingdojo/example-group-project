@@ -1,3 +1,9 @@
 .red {
   color: red;
 }
+.blue {
+  color: blue;
+}
+.large-text {
+  font-size: 25px;
+}
