@@ -1,0 +1,3 @@
+const fauxModel = {
+  a: "b",
+};
